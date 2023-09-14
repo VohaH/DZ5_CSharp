@@ -1,0 +1,15 @@
+D:\Projects c#\Seminary\DZ5\obj\Debug\net6.0\DZ5.csproj.AssemblyReference.cache
+D:\Projects c#\Seminary\DZ5\obj\Debug\net6.0\DZ5.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects c#\Seminary\DZ5\obj\Debug\net6.0\DZ5.AssemblyInfoInputs.cache
+D:\Projects c#\Seminary\DZ5\obj\Debug\net6.0\DZ5.AssemblyInfo.cs
+D:\Projects c#\Seminary\DZ5\obj\Debug\net6.0\DZ5.csproj.CoreCompileInputs.cache
+D:\Projects c#\Seminary\DZ5\bin\Debug\net6.0\DZ5.exe
+D:\Projects c#\Seminary\DZ5\bin\Debug\net6.0\DZ5.deps.json
+D:\Projects c#\Seminary\DZ5\bin\Debug\net6.0\DZ5.runtimeconfig.json
+D:\Projects c#\Seminary\DZ5\bin\Debug\net6.0\DZ5.dll
+D:\Projects c#\Seminary\DZ5\bin\Debug\net6.0\DZ5.pdb
+D:\Projects c#\Seminary\DZ5\obj\Debug\net6.0\DZ5.dll
+D:\Projects c#\Seminary\DZ5\obj\Debug\net6.0\refint\DZ5.dll
+D:\Projects c#\Seminary\DZ5\obj\Debug\net6.0\DZ5.pdb
+D:\Projects c#\Seminary\DZ5\obj\Debug\net6.0\DZ5.genruntimeconfig.cache
+D:\Projects c#\Seminary\DZ5\obj\Debug\net6.0\ref\DZ5.dll
